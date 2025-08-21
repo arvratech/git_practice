@@ -1,0 +1,2 @@
+source F:/Khan_esp/http_server/restful_server/build/bootloader/gdbinit/symbols
+source F:/Khan_esp/http_server/restful_server/build/bootloader/gdbinit/connect
